@@ -1,0 +1,5 @@
+.bg-section {
+  background-image: url("/images/hero/skyline.jpg");
+  background-size: cover;
+  /* Additional styles if needed */
+}
